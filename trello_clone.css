@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    font-family: Arial;
+}
+
+.section-1 {
+    background-color:dodgerblue; 
+    color:white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+input[type='email'] {
+    padding: 10px 3px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+input[type='button'] {
+    padding: 10px 20px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 5px;
+}
+
+a:visited {
+    color:white;
+}
+
+a:hover {
+    color:lightgrey;
+}
+
+.headline-1 {
+    font-size: 40px;
+}
+
+.section-2 {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
